@@ -6,7 +6,7 @@ permalink: /privacy-policy/
 
 # RetTrack Privacy Policy
 
-**Effective Date:** [●]
+**Effective Date:** May 12, 2026
 
 ## 1. Who We Are
 
