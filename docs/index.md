@@ -1,7 +1,6 @@
 ---
 layout: default
 title: RetTrack Legal
-permalink: /
 ---
 
 # RetTrack Legal
