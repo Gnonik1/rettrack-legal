@@ -57,9 +57,13 @@
 
     <footer class="site-footer">
       <div class="site-shell footer-shell">
-        <span class="footer-brand">RetTrack</span>
-        <a href="mailto:rettrackapp@gmail.com">rettrackapp@gmail.com</a>
-        <span>Public legal documents.</span>
+        <div class="footer-title">RetTrack Legal</div>
+        <nav class="footer-nav" aria-label="Footer legal documents">
+          <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>
+          <span aria-hidden="true">·</span>
+          <a href="{{ '/terms-of-use/' | relative_url }}">Terms of Use</a>
+        </nav>
+        <a class="footer-email" href="mailto:rettrackapp@gmail.com">rettrackapp@gmail.com</a>
       </div>
     </footer>
   </body>
