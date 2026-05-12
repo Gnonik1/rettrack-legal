@@ -2,5 +2,4 @@ title: RetTrack Legal
 description: Public legal documents for RetTrack.
 url: "https://gnonik1.github.io"
 baseurl: "/rettrack-legal"
-theme: jekyll-theme-minimal
 markdown: kramdown
