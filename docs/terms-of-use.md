@@ -28,7 +28,19 @@ RetTrack is designed to help users organize purchase information, return dates, 
 
 RetTrack is an organizational and reminder tool. It does not sell products, process returns, represent retailers, determine store policies, or guarantee that any purchase is eligible for return.
 
-## 4. User Responsibility for Purchase Information and Return Decisions
+## 4. Subscriptions and Purchases
+
+RetTrack offers an optional paid plan, RetTrack Pro, through the Apple App Store. Pro is available as an auto-renewable monthly or yearly subscription, or as a one-time non-consumable “Lifetime” purchase.
+
+Payment is charged to your Apple ID account at confirmation of purchase. Auto-renewable subscriptions renew automatically for the same period and price unless auto-renewal is turned off at least 24 hours before the end of the current period. Your Apple ID account is charged for renewal within 24 hours before the end of the current period.
+
+You can manage or cancel your subscription, and turn off auto-renewal, in your Apple ID account settings after purchase. Deleting the app does not cancel a subscription.
+
+Prices are shown in the app before purchase and may vary by region. Except where required by applicable law or Apple’s policies, payments are non-refundable, and refund requests are handled by Apple.
+
+The one-time Lifetime purchase grants access to Pro features without recurring billing.
+
+## 5. User Responsibility for Purchase Information and Return Decisions
 
 You are responsible for the accuracy, completeness, and legality of the information you enter into RetTrack, including item names, store names, prices, purchase dates, return dates, product links, notes, comments, and photos.
 
@@ -36,7 +48,7 @@ You remain solely responsible for verifying store policies, return windows, rece
 
 RetTrack does not provide legal, financial, retail, tax, consumer-rights, or professional advice.
 
-## 5. Reminders and Notifications
+## 6. Reminders and Notifications
 
 RetTrack may provide reminder-related functionality to help you keep track of return dates or purchase decisions. Reminder delivery may depend on your device, operating system, notification permissions, local settings, connectivity, platform behavior, and other factors outside RetTrack’s control.
 
@@ -44,7 +56,7 @@ RetTrack does not guarantee that reminders will always be delivered, delivered o
 
 You remain responsible for independently tracking return deadlines, verifying return eligibility, and taking timely action.
 
-## 6. Accounts and Guest Mode
+## 7. Accounts and Guest Mode
 
 RetTrack may be used in guest mode or with a signed-in account.
 
@@ -52,7 +64,7 @@ Guest-mode data is stored locally on your device and may not be recoverable if y
 
 You are responsible for maintaining the confidentiality and security of your account credentials and for all activity that occurs through your account.
 
-## 7. Account Deletion
+## 8. Account Deletion
 
 Signed-in users may delete their RetTrack account from within the app, subject to the account deletion process made available in RetTrack.
 
@@ -62,7 +74,7 @@ Deleting the app from your device does not necessarily delete synced account dat
 
 **rettrackapp@gmail.com**
 
-## 8. User Content
+## 9. User Content
 
 You may choose to add photos, notes, comments, product links, and other information to RetTrack (“User Content”).
 
@@ -70,7 +82,7 @@ You retain any rights you have in your User Content. You grant RetTrack a limite
 
 You must not upload, store, or share User Content through RetTrack that is unlawful, infringing, abusive, harmful, deceptive, invasive of another person’s privacy, or that you do not have the right to use.
 
-## 9. Prohibited Conduct
+## 10. Prohibited Conduct
 
 You agree not to misuse RetTrack or use the app in any way that could harm RetTrack, other users, service providers, or the security, availability, or integrity of the app.
 
@@ -90,25 +102,25 @@ You must not:
 
 7. use RetTrack in a way that violates these Terms, applicable law, or third-party rights.
 
-## 10. Suspension, Restriction, and Termination
+## 11. Suspension, Restriction, and Termination
 
 If we reasonably believe that you have violated these Terms, misused RetTrack, created legal risk, threatened the security or integrity of the app, or violated applicable law, we may suspend, restrict, or terminate your access to RetTrack or certain features, remove or disable access to content, or take other appropriate action.
 
 Where required by applicable law, we will provide notice or an opportunity to respond.
 
-## 11. Third-Party Services
+## 12. Third-Party Services
 
 RetTrack may rely on third-party services, including authentication, database, storage, platform, and operating-system services. Your use of those services may also be subject to their own terms, policies, and technical requirements.
 
 RetTrack is not responsible for third-party services, app stores, operating systems, device settings, retailer websites, store policies, or product return systems that are outside RetTrack’s control.
 
-## 12. Changes to RetTrack
+## 13. Changes to RetTrack
 
 We may modify, update, suspend, or discontinue RetTrack or any feature of RetTrack from time to time. We may also change limits, features, account functionality, photo functionality, reminder behavior, or other aspects of the app.
 
 Where appropriate, we will take reasonable steps to provide notice of material changes.
 
-## 13. No Warranties
+## 14. No Warranties
 
 To the maximum extent permitted by applicable law, RetTrack is provided on an “as is” and “as available” basis.
 
@@ -116,13 +128,13 @@ We do not warrant that RetTrack will be uninterrupted, error-free, secure, avail
 
 Nothing in these Terms limits any rights that you may have under mandatory consumer protection laws.
 
-## 14. Limitation of Liability
+## 15. Limitation of Liability
 
 To the maximum extent permitted by applicable law, RetTrack and its developer will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of profits, loss of data, missed return windows, rejected returns, missed reminders, or other losses arising from or related to your use of or inability to use RetTrack.
 
 Nothing in these Terms excludes or limits liability where such exclusion or limitation is not permitted by applicable law.
 
-## 15. Governing Law and Mandatory Rights
+## 16. Governing Law and Mandatory Rights
 
 These Terms will be interpreted to the extent permitted by applicable law.
 
@@ -130,13 +142,13 @@ Because RetTrack may be made available internationally, nothing in these Terms i
 
 Additional governing law or dispute-resolution terms may apply through Apple’s Standard End User License Agreement, Apple App Store terms, or other applicable platform terms.
 
-## 16. Changes to These Terms
+## 17. Changes to These Terms
 
 We may update these Terms from time to time to reflect changes in RetTrack, legal requirements, business practices, or app functionality. When we make material changes, we will take reasonable steps to notify users, such as by updating the effective date, providing in-app notice, or using another appropriate method.
 
 Your continued use of RetTrack after updated Terms become effective means that the updated Terms apply to your use of the app, to the extent permitted by applicable law.
 
-## 17. Contact
+## 18. Contact
 
 If you have questions about these Terms, you may contact us at:
 
