@@ -6,7 +6,7 @@ permalink: /terms-of-use/
 
 # RetTrack Terms of Use
 
-**Effective Date:** May 12, 2026
+**Effective Date:** Jul 26, 2026
 
 ## 1. Acceptance of Terms
 
