@@ -65,11 +65,9 @@
       </div>
     </header>
 
-    <main id="main-content" class="site-main">
+    <main id="main-content" class="site-main{% if page.wide %} is-wide{% endif %}">
       {%- if page.wide %}
-      <div class="site-shell is-wide">
-        {{ content }}
-      </div>
+      {{ content }}
       {%- else %}
       <div class="site-shell">
         <article class="content-card">
@@ -91,5 +89,29 @@
         <a class="footer-email" href="mailto:rettrackapp@gmail.com">rettrackapp@gmail.com</a>
       </div>
     </footer>
+
+    <script>
+      (function () {
+        var media = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)');
+        if (!('IntersectionObserver' in window) || (media && media.matches)) return;
+
+        var items = document.querySelectorAll('[data-reveal]');
+        if (!items.length) return;
+
+        document.documentElement.className += ' reveal-init';
+
+        var observer = new IntersectionObserver(function (entries) {
+          for (var i = 0; i < entries.length; i++) {
+            if (!entries[i].isIntersecting) continue;
+            entries[i].target.className += ' is-revealed';
+            observer.unobserve(entries[i].target);
+          }
+        }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
+
+        for (var i = 0; i < items.length; i++) {
+          observer.observe(items[i]);
+        }
+      })();
+    </script>
   </body>
 </html>
