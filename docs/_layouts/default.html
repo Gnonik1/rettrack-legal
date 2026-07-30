@@ -66,11 +66,17 @@
     </header>
 
     <main id="main-content" class="site-main">
+      {%- if page.wide %}
+      <div class="site-shell is-wide">
+        {{ content }}
+      </div>
+      {%- else %}
       <div class="site-shell">
         <article class="content-card">
           {{ content }}
         </article>
       </div>
+      {%- endif %}
     </main>
 
     <footer class="site-footer">
