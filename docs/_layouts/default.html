@@ -113,5 +113,21 @@
         }
       })();
     </script>
+
+    <script>
+      (function () {
+        var target = document.getElementById('return-date');
+        if (!target) return;
+
+        var months = [
+          'January', 'February', 'March', 'April', 'May', 'June',
+          'July', 'August', 'September', 'October', 'November', 'December'
+        ];
+
+        var due = new Date();
+        due.setDate(due.getDate() + 12);
+        target.textContent = due.getDate() + ' ' + months[due.getMonth()];
+      })();
+    </script>
   </body>
 </html>
