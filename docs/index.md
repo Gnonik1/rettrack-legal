@@ -26,10 +26,12 @@ wide: true
             <span class="ring-unit">days</span>
           </div>
         </div>
-        <div class="purchase-name">Wool coat</div>
+        <div class="purchase-name">Cashmere Coat</div>
+        {%- assign purchased_epoch = site.time | date: '%s' | minus: 1555200 -%}
         {%- assign return_epoch = site.time | date: '%s' | plus: 1036800 -%}
-        <div class="purchase-date">Returns by <span id="return-date">{{ return_epoch | date: '%-d %B' }}</span></div>
-        <div class="purchase-price">89.00</div>
+        <div class="purchase-date"><span class="purchase-date-label">Purchased</span> <span id="purchase-date">{{ purchased_epoch | date: '%-d %B' }}</span></div>
+        <div class="purchase-date"><span class="purchase-date-label">Returns by</span> <span id="return-date">{{ return_epoch | date: '%-d %B' }}</span></div>
+        <div class="purchase-price">EUR 320</div>
       </div>
     </div>
   </div>
@@ -226,16 +228,16 @@ wide: true
           <li>Up to three photos per item.</li>
           <li>Export your history to CSV.</li>
         </ul>
+        <p class="plan-note">Pro is available as a monthly or yearly subscription, or as a one-time Lifetime purchase.</p>
       </div>
     </div>
-    <p class="plan-note">Pro is available as a monthly or yearly subscription, or as a one-time Lifetime purchase.</p>
   </div>
 </section>
 
 <section class="band is-raised">
   <div class="band-inner">
     <div class="statement" data-reveal>
-      <h2 class="section-title">Return policies, explained</h2>
+      <h2 class="section-title">Return windows, store by store</h2>
       <p class="section-text">How long do you actually have at each store, and when does the clock start counting? We keep plain-English summaries of the rules that are easy to get wrong.</p>
       <a class="cta-button is-secondary" href="{{ '/return-policies/' | relative_url }}">Browse return policies</a>
     </div>

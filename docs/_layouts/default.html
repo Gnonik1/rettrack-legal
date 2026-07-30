@@ -87,6 +87,7 @@
           {% endfor %}
         </nav>
         <a class="footer-email" href="mailto:rettrackapp@gmail.com">rettrackapp@gmail.com</a>
+        <p class="footer-legal">RetTrack is an independent app and is not affiliated with, endorsed by, or sponsored by any retailer. All trademarks are the property of their respective owners.</p>
       </div>
     </footer>
 
@@ -116,17 +117,79 @@
 
     <script>
       (function () {
-        var target = document.getElementById('return-date');
-        if (!target) return;
-
         var months = [
           'January', 'February', 'March', 'April', 'May', 'June',
           'July', 'August', 'September', 'October', 'November', 'December'
         ];
 
-        var due = new Date();
-        due.setDate(due.getDate() + 12);
-        target.textContent = due.getDate() + ' ' + months[due.getMonth()];
+        function setDate(id, offsetDays) {
+          var target = document.getElementById(id);
+          if (!target) return;
+
+          var day = new Date();
+          day.setDate(day.getDate() + offsetDays);
+          target.textContent = day.getDate() + ' ' + months[day.getMonth()];
+        }
+
+        setDate('purchase-date', -18);
+        setDate('return-date', 12);
+      })();
+    </script>
+
+    <script>
+      (function () {
+        var header = document.querySelector('.site-header');
+        if (!header) return;
+
+        var stuck = false;
+        var ticking = false;
+
+        function update() {
+          ticking = false;
+
+          var isStuck = window.pageYOffset > 8;
+          if (isStuck === stuck) return;
+
+          stuck = isStuck;
+          if (isStuck) {
+            header.classList.add('is-stuck');
+          } else {
+            header.classList.remove('is-stuck');
+          }
+        }
+
+        function onScroll() {
+          if (ticking) return;
+          ticking = true;
+          window.requestAnimationFrame(update);
+        }
+
+        window.addEventListener('scroll', onScroll, { passive: true });
+        update();
+      })();
+    </script>
+
+    <script>
+      (function () {
+        var media = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)');
+        if (!('IntersectionObserver' in window) || (media && media.matches)) return;
+
+        var buttons = document.querySelectorAll('.cta-button:not(.is-secondary)');
+        if (!buttons.length) return;
+
+        var observer = new IntersectionObserver(function (entries) {
+          for (var i = 0; i < entries.length; i++) {
+            if (entries[i].isIntersecting) {
+              entries[i].target.classList.add('is-sweeping');
+            } else {
+              entries[i].target.classList.remove('is-sweeping');
+            }
+          }
+        }, { threshold: 0.6 });
+
+        for (var i = 0; i < buttons.length; i++) {
+          observer.observe(buttons[i]);
+        }
       })();
     </script>
   </body>
