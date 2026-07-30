@@ -1,5 +1,18 @@
-title: RetTrack Legal
-description: Public legal documents for RetTrack.
+title: RetTrack
+description: Track purchases, return deadlines, and receipts in one place.
 url: "https://gnonik1.github.io"
 baseurl: "/rettrack-legal"
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+
+navigation:
+  - title: Home
+    url: /
+  - title: Return Policies
+    url: /return-policies/
+  - title: Privacy Policy
+    url: /privacy-policy/
+  - title: Terms of Use
+    url: /terms-of-use/

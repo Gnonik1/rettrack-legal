@@ -153,6 +153,7 @@ button:focus-visible {
   flex-wrap: wrap;
   justify-content: flex-end;
   gap: 0.55rem;
+  min-width: 0;
 }
 
 .site-nav a {
@@ -263,7 +264,6 @@ h4 {
 }
 
 h1 {
-  max-width: 14ch;
   margin-bottom: 1rem;
   color: var(--green-dark);
   font-size: clamp(2rem, 4vw, 3.05rem);
@@ -450,7 +450,6 @@ hr {
   }
 
   h1 {
-    max-width: none;
     font-size: 1.9rem;
     line-height: 1.12;
   }
