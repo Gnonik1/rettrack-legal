@@ -23,7 +23,7 @@ wide: true
           </svg>
           <div class="ring-label">
             <span class="ring-number">12</span>
-            <span class="ring-unit">days</span>
+            <span class="ring-unit">days left</span>
           </div>
         </div>
         <div class="purchase-name">Cashmere Coat</div>

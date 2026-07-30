@@ -9,10 +9,14 @@ plugins:
 
 navigation:
   - title: Home
+    short: Home
     url: /
   - title: Return Policies
+    short: Policies
     url: /return-policies/
   - title: Privacy Policy
+    short: Privacy
     url: /privacy-policy/
   - title: Terms of Use
+    short: Terms
     url: /terms-of-use/

@@ -59,7 +59,7 @@
             class="nav-link{% if current_url == item.url %} is-active{% endif %}"
             href="{{ item.url | relative_url }}"
             {% if current_url == item.url %}aria-current="page"{% endif %}
-          >{{ item.title }}</a>
+          ><span class="nav-label-full">{{ item.title }}</span><span class="nav-label-short">{{ item.short }}</span></a>
           {% endfor %}
         </nav>
       </div>
