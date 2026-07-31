@@ -55,6 +55,15 @@ Most return policies are easy to find and hard to read. These pages give you the
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
+  <a class="store-row" href="{{ '/return-policies/nike/' | relative_url }}">
+    <span class="store-copy">
+      <span class="store-name">Nike</span>
+      <span class="store-line">60 days, and worn shoes are usually fine.</span>
+    </span>
+    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
+    </svg>
+  </a>
 </div>
 
 More stores are being added.
