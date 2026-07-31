@@ -8,10 +8,8 @@ verified: 2026-07-31
 
 <a class="crumb" href="{{ '/return-policies/' | relative_url }}"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14.25 5.5 7.75 12l6.5 6.5" /></svg>Return windows</a>
 
-Zara
-{: .eyebrow}
-
-# Zara Return Policy: How Long Do You Actually Have?
+# <span class="masthead-store">Zara</span> Return Policy: How Long Do You Actually Have?
+{: .masthead}
 
 The short answer is 30 days. The part that catches people out is when those 30 days begin. For an online order, the countdown does not start when your parcel arrives. It starts when Zara emails you to say it has shipped.
 {: .lede}
