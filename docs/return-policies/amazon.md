@@ -98,6 +98,15 @@ With Amazon the useful habit is to record the real deadline rather than a rough 
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
+  <a class="store-row" href="{{ '/return-policies/zalando/' | relative_url }}">
+    <span class="store-copy">
+      <span class="store-name">Zalando</span>
+      <span class="store-line">30 days and free, since the 100 day window ended.</span>
+    </span>
+    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
+    </svg>
+  </a>
 </div>
 
 ---
