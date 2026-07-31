@@ -6,9 +6,25 @@ description: "Zara gives you 30 days, but for online orders the countdown starts
 verified: 2026-07-31
 ---
 
-# Zara Return Policy: How Long Do You Actually Have?
+# <span class="store-mark">Zara</span> Return Policy: How Long Do You Actually Have?
 
 The short answer is 30 days. The part that catches people out is when those 30 days begin. For an online order, the countdown does not start when your parcel arrives. It starts when Zara emails you to say it has shipped.
+{: .lede}
+
+<div class="glance">
+  <div class="glance-item">
+    <span class="glance-label">Return window</span>
+    <span class="glance-value">30 days</span>
+  </div>
+  <div class="glance-item">
+    <span class="glance-label">Online clock starts</span>
+    <span class="glance-value">Shipping confirmation date</span>
+  </div>
+  <div class="glance-item">
+    <span class="glance-label">Returning in store</span>
+    <span class="glance-value">Free</span>
+  </div>
+</div>
 
 ## The two clocks
 
@@ -55,11 +71,15 @@ The online returns system will refuse a late request outright. A physical store 
 
 Plenty of retailers give you longer for gifts bought in November and December. Zara is not one of them. A gift bought in early December can be out of window before it has even been unwrapped.
 
+<div class="track-cta" markdown="1">
+
 ## Keep track of it instead of counting
 
 The reason this deadline gets missed is almost never carelessness. It is that the shipping email gets buried and nobody writes the date down. RetTrack saves the purchase and the return date together and reminds you before the window closes.
 
-<a class="cta-button is-secondary" href="https://apps.apple.com/app/rettrack-returns-purchases/id6775811683" target="_blank" rel="noopener">Get RetTrack for iPhone</a>
+<a class="cta-button" href="https://apps.apple.com/app/rettrack-returns-purchases/id6775811683" target="_blank" rel="noopener">Get RetTrack for iPhone</a>
+
+</div>
 
 ---
 
