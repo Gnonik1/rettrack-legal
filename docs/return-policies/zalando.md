@@ -64,6 +64,14 @@ Items need to be unworn and in their original condition with the tags still atta
 
 Rather than counting from memory, open the order in your Zalando account. The return option and the deadline attached to it are shown there, and that is the version that reflects your country and the date your order was placed. Terms also differ between countries, so use your own country's Zalando site rather than whichever one a search engine happens to show you.
 
+## When the money actually arrives
+
+Zalando refunds to the payment method you used, and because the return itself costs nothing there is no fee eating into the amount, which is not true of most of the other shops listed here.
+
+The wait is three stages rather than one: the parcel travelling back, Zalando receiving and checking it, and your bank posting the credit. The tracking on your return covers the first stage and your account covers the second. Only the third is invisible, and it is usually the one people are actually waiting on.
+
+If you paid by something other than a straightforward card payment, the refund follows that same method, so check where the money actually came from before assuming it has gone missing.
+
 <div class="track-cta" markdown="1">
 
 ## Keep track of it instead of counting

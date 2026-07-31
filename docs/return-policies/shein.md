@@ -69,9 +69,13 @@ Items need to be unworn, unwashed and in the condition they arrived in, with the
 
 Each return label is tied to a specific order. Putting items from two different orders into the same parcel means the warehouse scans a label that does not expect them, and the unlinked items may simply not be refunded.
 
-## What comes back, and where
+## When the money actually arrives
 
-Refunds go either to the original payment method or to your Shein wallet, and you choose which when you start the return. Original shipping and handling is not refunded. In the United States some returns can be dropped off in person rather than posted, which the returns flow will tell you when it applies.
+Shein gives you a choice when you start the return: back to the payment method you used, or into your Shein wallet. The wallet is the faster of the two because it skips the bank entirely. The card is slower, and it is the right choice if you do not plan to shop there again.
+
+Original shipping and handling is not refunded, and where a return fee applies it comes out of the amount rather than being billed to you separately.
+
+Beyond that it is the usual three stages: the parcel travelling back, Shein receiving and inspecting it, and then either the wallet crediting almost immediately or your bank taking its own time.
 
 <div class="track-cta" markdown="1">
 

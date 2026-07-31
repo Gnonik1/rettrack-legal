@@ -67,6 +67,14 @@ Items marked Final Sale are non-returnable and non-refundable. Beyond that the n
 
 Many items qualify for free returns at drop-off points, often without needing a box or a printed label. Not every option is free for every order, and choosing a less convenient drop-off can attract a small charge that comes out of the refund. The returns flow shows the cost before you commit, so it is worth reading rather than clicking through.
 
+## When the money actually arrives
+
+Amazon tracks the refund against the order itself, so rather than counting days you can open the order and see exactly which stage it has reached.
+
+Where the item came from matters here as much as it does everywhere else on this page. A return handled by Amazon moves through Amazon's system. A return handled by a marketplace seller moves at that seller's pace, and if it stalls, the A-to-z Guarantee is the route rather than waiting and hoping.
+
+Whatever the seller, the last stage is your bank posting the credit, and that part is outside everyone's control. If Amazon shows the refund as issued and your account still shows nothing, the question belongs to your bank.
+
 <div class="track-cta" markdown="1">
 
 ## Keep track of it instead of counting

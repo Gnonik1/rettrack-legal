@@ -65,6 +65,14 @@ Nike's policy only covers what you bought from Nike, whether that is the website
 
 Once you start a return and generate the label or code, it has its own expiry, which is shorter than the 60 days and is shown to you when you create it. Starting the return early and then leaving the parcel in the hall is a way to miss a deadline you thought you had already met.
 
+## When the money actually arrives
+
+Taking the item into a Nike store is the fastest route by a distance, because it removes the parcel and the inspection from the process entirely. The refund is authorised on the spot and after that it is only your bank you are waiting on.
+
+A posted return has to travel, arrive and be checked before anything is issued, which is why the same return can feel weeks apart depending only on how you sent it back.
+
+If you exchanged rather than refunded, nothing comes back at all, so it is worth being clear which of the two you asked for when you started.
+
 <div class="track-cta" markdown="1">
 
 ## Keep track of it instead of counting

@@ -69,9 +69,13 @@ With no proof at all it becomes a decision for the store. Where a return is allo
 
 H&M has run extended windows in past years for purchases made in November and December, letting them go back into late January. It is announced annually rather than being part of the standard policy, so confirm it at the time of purchase instead of assuming it applies.
 
-## What actually comes back
+## When the money actually arrives
 
-Refunds go to the original payment method. The shipping and handling you paid on the original order is not refunded, so a small order returned by post can end up costing you more than it returns.
+Refunds go back to the original payment method. The shipping and handling you paid on the way out is not returned, so a small order sent back by post can cost you more than it gives back once the return fee is taken off as well.
+
+The wait is really three separate stages, and only the middle one belongs to H&M. The parcel has to reach them, they have to receive and check it, and then your bank has to post the credit. People count from the day they dropped the parcel off, which is why the money feels late even when nothing has gone wrong.
+
+Taking the item into a store removes the first stage entirely, which is the single biggest thing you can do to speed it up.
 
 <div class="track-cta" markdown="1">
 

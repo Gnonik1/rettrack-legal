@@ -7,7 +7,7 @@ description: "How long you have to return an item at each store, when the clock 
 
 # Return windows, store by store
 
-Most return policies are easy to find and hard to read. These pages give you the deadline, when it starts counting, and the things that quietly stop a refund going through. Each page says when it was last checked.
+Most return policies are easy to find and hard to read. These pages give you the deadline, when it starts counting, what stops a refund going through, and when the money actually turns up. Each page says when it was last checked.
 
 <div class="store-list">
   <a class="store-row" href="{{ '/return-policies/zara/' | relative_url }}">

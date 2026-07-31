@@ -74,6 +74,14 @@ The online returns system will refuse a late request outright. A physical store 
 
 Plenty of retailers give you longer for gifts bought in November and December. Zara is not one of them. A gift bought in early December can be out of window before it has even been unwrapped.
 
+## When the money actually arrives
+
+Zara's own help pages say you should have the money within a maximum of 14 days once the return has been made, and that the exact timing depends on your bank rather than on Zara.
+
+Two things are worth knowing beyond that. If you send items back in more than one parcel, the refunds are processed separately and can arrive on different days, with a separate confirmation email for each. And if you bought something in a store and take it back to a store, the refund is issued to a gift card rather than to your card.
+
+If 14 days pass with nothing, Zara's own advice is to take the refund confirmation to your bank rather than back to Zara, because by that point the money has left their side.
+
 <div class="track-cta" markdown="1">
 
 ## Keep track of it instead of counting
