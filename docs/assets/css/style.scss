@@ -414,10 +414,6 @@ code {
   margin: 1.7rem 0 1.5rem;
 }
 
-.store-list.is-stacked {
-  grid-template-columns: minmax(0, 1fr);
-}
-
 .store-row {
   display: flex;
   align-items: center;
