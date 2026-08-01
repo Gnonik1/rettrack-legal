@@ -95,15 +95,6 @@ Sixty days is long enough to feel like no deadline at all, which is exactly why 
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
-  <a class="store-row" href="{{ '/return-policies/hm/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">H&amp;M</span>
-      <span class="store-line">30 days from the delivery date, not shipping.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
   <a class="store-row" href="{{ '/return-policies/amazon/' | relative_url }}">
     <span class="store-copy">
       <span class="store-name">Amazon</span>
@@ -122,51 +113,6 @@ Sixty days is long enough to feel like no deadline at all, which is exactly why 
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
-  <a class="store-row" href="{{ '/return-policies/shein/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Shein</span>
-      <span class="store-line">30 days, but only the first return per order is free.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/mango/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Mango</span>
-      <span class="store-line">30 days from dispatch, but free to send back.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/trendyol/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Trendyol</span>
-      <span class="store-line">15 to 30 days depending on the region you ordered from.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/temu/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Temu</span>
-      <span class="store-line">90 days, but counted from the day you ordered.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/ebay/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">eBay</span>
-      <span class="store-line">Set by the seller, with a 30 day guarantee underneath.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
   <a class="store-row" href="{{ '/return-policies/farfetch/' | relative_url }}">
     <span class="store-copy">
       <span class="store-name">Farfetch</span>
@@ -176,16 +122,9 @@ Sixty days is long enough to feel like no deadline at all, which is exactly why 
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
-  <a class="store-row" href="{{ '/return-policies/ikea/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">IKEA</span>
-      <span class="store-line">365 days unopened, 180 once you have opened the box.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
 </div>
+
+[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

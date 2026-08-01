@@ -84,55 +84,10 @@ RetTrack saves the purchase and the return date together and reminds you before 
 ## Other stores
 
 <div class="store-list">
-  <a class="store-row" href="{{ '/return-policies/zara/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Zara</span>
-      <span class="store-line">30 days from the shipping date, not delivery.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/hm/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">H&amp;M</span>
-      <span class="store-line">30 days from the delivery date, not shipping.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/amazon/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Amazon</span>
-      <span class="store-line">30 days from delivery, but the seller can change it.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
   <a class="store-row" href="{{ '/return-policies/zalando/' | relative_url }}">
     <span class="store-copy">
       <span class="store-name">Zalando</span>
       <span class="store-line">30 days and free, since the 100 day window ended.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/shein/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Shein</span>
-      <span class="store-line">30 days, but only the first return per order is free.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/nike/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Nike</span>
-      <span class="store-line">60 days, and worn shoes are usually fine.</span>
     </span>
     <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
@@ -147,19 +102,10 @@ RetTrack saves the purchase and the return date together and reminds you before 
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
-  <a class="store-row" href="{{ '/return-policies/trendyol/' | relative_url }}">
+  <a class="store-row" href="{{ '/return-policies/nike/' | relative_url }}">
     <span class="store-copy">
-      <span class="store-name">Trendyol</span>
-      <span class="store-line">15 to 30 days depending on the region you ordered from.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/temu/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Temu</span>
-      <span class="store-line">90 days, but counted from the day you ordered.</span>
+      <span class="store-name">Nike</span>
+      <span class="store-line">60 days, and worn shoes are usually fine.</span>
     </span>
     <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
@@ -174,16 +120,9 @@ RetTrack saves the purchase and the return date together and reminds you before 
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
-  <a class="store-row" href="{{ '/return-policies/ikea/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">IKEA</span>
-      <span class="store-line">365 days unopened, 180 once you have opened the box.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
 </div>
+
+[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

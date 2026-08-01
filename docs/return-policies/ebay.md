@@ -86,73 +86,10 @@ Two overlapping windows, one set by the seller and one by the platform, and a di
 ## Other stores
 
 <div class="store-list">
-  <a class="store-row" href="{{ '/return-policies/zara/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Zara</span>
-      <span class="store-line">30 days from the shipping date, not delivery.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/hm/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">H&amp;M</span>
-      <span class="store-line">30 days from the delivery date, not shipping.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
   <a class="store-row" href="{{ '/return-policies/amazon/' | relative_url }}">
     <span class="store-copy">
       <span class="store-name">Amazon</span>
       <span class="store-line">30 days from delivery, but the seller can change it.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/zalando/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Zalando</span>
-      <span class="store-line">30 days and free, since the 100 day window ended.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/shein/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Shein</span>
-      <span class="store-line">30 days, but only the first return per order is free.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/nike/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Nike</span>
-      <span class="store-line">60 days, and worn shoes are usually fine.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/mango/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Mango</span>
-      <span class="store-line">30 days from dispatch, but free to send back.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
-  <a class="store-row" href="{{ '/return-policies/trendyol/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">Trendyol</span>
-      <span class="store-line">15 to 30 days depending on the region you ordered from.</span>
     </span>
     <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
@@ -167,25 +104,27 @@ Two overlapping windows, one set by the seller and one by the platform, and a di
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
-  <a class="store-row" href="{{ '/return-policies/farfetch/' | relative_url }}">
+  <a class="store-row" href="{{ '/return-policies/bestbuy/' | relative_url }}">
     <span class="store-copy">
-      <span class="store-name">Farfetch</span>
-      <span class="store-line">14 days, and it has to be back at the boutique by then.</span>
+      <span class="store-name">Best Buy</span>
+      <span class="store-line">15 days as standard, or 60 if you pay for membership.</span>
     </span>
     <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
-  <a class="store-row" href="{{ '/return-policies/ikea/' | relative_url }}">
+  <a class="store-row" href="{{ '/return-policies/trendyol/' | relative_url }}">
     <span class="store-copy">
-      <span class="store-name">IKEA</span>
-      <span class="store-line">365 days unopened, 180 once you have opened the box.</span>
+      <span class="store-name">Trendyol</span>
+      <span class="store-line">15 to 30 days depending on the region you ordered from.</span>
     </span>
     <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
 </div>
+
+[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 
