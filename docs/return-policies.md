@@ -61,6 +61,12 @@ Almost every shop here says thirty days. That number turns out to be the least u
       <td data-label="Clock starts">Dispatch date</td>
       <td data-label="Cost to return">Free</td>
     </tr>
+    <tr>
+      <td data-label="Store"><a href="{{ '/return-policies/trendyol/' | relative_url }}">Trendyol</a></td>
+      <td data-label="Window">Varies</td>
+      <td data-label="Clock starts">Delivery date</td>
+      <td data-label="Cost to return">Free</td>
+    </tr>
   </tbody>
 </table>
 
@@ -68,7 +74,7 @@ Almost every shop here says thirty days. That number turns out to be the least u
 
 **Cost is where they really differ.** Zalando and Mango charge nothing either way. Zara and H&M take a fee out of your refund for anything posted back, though both are free if you walk into a shop. Shein gives you one free parcel per order and charges for every one after it.
 
-**Nike is the outlier.** Twice the window, and the only shop here that expects you to have worn the thing before deciding.
+**Nike is the outlier.** Twice the window, and the only shop here that expects you to have worn the thing before deciding. Trendyol is the other outlier, in the opposite direction: its window is set per region rather than globally, so the same shop gives you 30 days in Europe and 15 in the Gulf.
 
 Each store page explains the exceptions, the things that get a return refused, and when the money actually turns up.
 
