@@ -7,21 +7,68 @@ description: "A side by side comparison of return windows at Zara, H&M, Amazon, 
 
 # Return windows compared, store by store
 
-Most return policies are easy to find and hard to read, and almost all of them say thirty days. The number is the least interesting part. What actually decides whether you get your money back is when the counting starts and what the parcel costs to send, and those vary a lot more than the headline does.
+Almost every shop here says thirty days. That number turns out to be the least useful part of the policy. What decides whether you actually get your money back is when the counting starts and what it costs to send the parcel back.
 
-| Store | Window | Clock starts | Cost to return |
-| --- | --- | --- | --- |
-| [Zara]({{ '/return-policies/zara/' | relative_url }}) | 30 days | Shipping date | Fee by post, free in store |
-| [H&M]({{ '/return-policies/hm/' | relative_url }}) | 30 days | Delivery date | Fee by post, free in store |
-| [Amazon]({{ '/return-policies/amazon/' | relative_url }}) | 30 days | Delivery date | Often free, varies by seller |
-| [Zalando]({{ '/return-policies/zalando/' | relative_url }}) | 30 days | Shown in your account | Free |
-| [Shein]({{ '/return-policies/shein/' | relative_url }}) | 30 days | Shown in the app | First return free |
-| [Nike]({{ '/return-policies/nike/' | relative_url }}) | 60 days | Delivery date | Free for members |
-| [Mango]({{ '/return-policies/mango/' | relative_url }}) | 30 days | Dispatch date | Free |
+<table class="compare-table">
+  <thead>
+    <tr>
+      <th>Store</th>
+      <th>Window</th>
+      <th>Clock starts</th>
+      <th>Cost to return</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td data-label="Store"><a href="{{ '/return-policies/zara/' | relative_url }}">Zara</a></td>
+      <td data-label="Window">30 days</td>
+      <td data-label="Clock starts">Shipping date</td>
+      <td data-label="Cost to return">Fee by post, free in store</td>
+    </tr>
+    <tr>
+      <td data-label="Store"><a href="{{ '/return-policies/hm/' | relative_url }}">H&amp;M</a></td>
+      <td data-label="Window">30 days</td>
+      <td data-label="Clock starts">Delivery date</td>
+      <td data-label="Cost to return">Fee by post, free in store</td>
+    </tr>
+    <tr>
+      <td data-label="Store"><a href="{{ '/return-policies/amazon/' | relative_url }}">Amazon</a></td>
+      <td data-label="Window">30 days</td>
+      <td data-label="Clock starts">Delivery date</td>
+      <td data-label="Cost to return">Often free, varies by seller</td>
+    </tr>
+    <tr>
+      <td data-label="Store"><a href="{{ '/return-policies/zalando/' | relative_url }}">Zalando</a></td>
+      <td data-label="Window">30 days</td>
+      <td data-label="Clock starts">Shown in your account</td>
+      <td data-label="Cost to return">Free</td>
+    </tr>
+    <tr>
+      <td data-label="Store"><a href="{{ '/return-policies/shein/' | relative_url }}">Shein</a></td>
+      <td data-label="Window">30 days</td>
+      <td data-label="Clock starts">Shown in the app</td>
+      <td data-label="Cost to return">First return free</td>
+    </tr>
+    <tr>
+      <td data-label="Store"><a href="{{ '/return-policies/nike/' | relative_url }}">Nike</a></td>
+      <td data-label="Window">60 days</td>
+      <td data-label="Clock starts">Delivery date</td>
+      <td data-label="Cost to return">Free for members</td>
+    </tr>
+    <tr>
+      <td data-label="Store"><a href="{{ '/return-policies/mango/' | relative_url }}">Mango</a></td>
+      <td data-label="Window">30 days</td>
+      <td data-label="Clock starts">Dispatch date</td>
+      <td data-label="Cost to return">Free</td>
+    </tr>
+  </tbody>
+</table>
 
-Two things stand out. Nike is the only shop here that gives you longer than a month, and the only one that expects you to have worn the thing before deciding. And the day count matters less than the starting line: Zara and Mango both begin counting before the parcel has left the building, which can quietly cost you a week of the window on a slow delivery.
+**The starting line matters more than the number.** Zara and Mango begin counting before the parcel has left the warehouse. On a slow delivery that can quietly cost you a week of a window you thought you had.
 
-Cost is where the real difference sits. Zalando and Mango charge nothing either way. Zara and H&M take a fee out of your refund for anything posted back, though both are free if you walk into a shop. Shein gives you one free parcel per order and charges for every one after that, which is why sending things back in two goes is the most expensive way to use it.
+**Cost is where they really differ.** Zalando and Mango charge nothing either way. Zara and H&M take a fee out of your refund for anything posted back, though both are free if you walk into a shop. Shein gives you one free parcel per order and charges for every one after it.
+
+**Nike is the outlier.** Twice the window, and the only shop here that expects you to have worn the thing before deciding.
 
 Each store page explains the exceptions, the things that get a return refused, and when the money actually turns up.
 

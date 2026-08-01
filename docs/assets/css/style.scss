@@ -334,12 +334,44 @@ code {
   padding: 0.72rem 0.9rem 0.72rem 0;
   border-bottom: 1px solid var(--border);
   text-align: left;
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
 }
 
 .content-card th {
   color: var(--green-dark);
   font-weight: 760;
+}
+
+.compare-table {
+  table-layout: fixed;
+}
+
+.compare-table th:nth-child(1) {
+  width: 18%;
+}
+
+.compare-table th:nth-child(2) {
+  width: 14%;
+}
+
+.compare-table th:nth-child(3) {
+  width: 30%;
+}
+
+.compare-table th:nth-child(4) {
+  width: 38%;
+}
+
+.compare-table thead th {
+  border-bottom: 2px solid var(--border);
+}
+
+.compare-table tbody td:first-child {
+  font-weight: 700;
+}
+
+.compare-table td:nth-child(2) {
+  white-space: nowrap;
 }
 
 .small-print {
@@ -1334,6 +1366,65 @@ hr {
   .content-card {
     padding: 1.35rem;
     border-radius: 8px;
+  }
+
+  .compare-table thead {
+    display: none;
+  }
+
+  .compare-table,
+  .compare-table tbody,
+  .compare-table tr,
+  .compare-table td {
+    display: block;
+  }
+
+  .compare-table tr {
+    margin: 0 0 0.75rem;
+    padding: 1.05rem 1.15rem;
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--gold);
+    border-radius: 8px;
+    background: var(--paper-strong);
+  }
+
+  .compare-table tr:last-child {
+    margin-bottom: 0;
+  }
+
+  .compare-table td {
+    padding: 0;
+    border-bottom: 0;
+  }
+
+  .compare-table td:first-child {
+    margin: 0 0 0.55rem;
+    color: var(--green-dark);
+    font-size: 1.03rem;
+    line-height: 1.25;
+  }
+
+  .compare-table td:not(:first-child) {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.9rem;
+    padding: 0.42rem 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    text-align: right;
+  }
+
+  .compare-table td:nth-child(n + 3) {
+    border-top: 1px solid var(--border);
+  }
+
+  .compare-table td:not(:first-child)::before {
+    content: attr(data-label);
+    flex: none;
+    color: var(--muted);
+    font-size: 0.85rem;
+    text-align: left;
   }
 
   .store-list {
