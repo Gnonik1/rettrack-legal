@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "H&M Return Policy: How Long Do You Have, and What Does It Cost?"
+title: "H&M Return Policy: 30 Days, and What It Costs to Return"
 permalink: /return-policies/hm/
 description: "H&M gives you 30 days, counted from the delivery date for online orders. Returning in store is free, while mailing an order back has a fee taken out of your refund."
 verified: 2026-07-31

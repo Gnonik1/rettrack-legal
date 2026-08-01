@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Amazon Return Policy: How Long Do You Have, and Who Decides?"
+title: "Amazon Return Policy: 30 Days, but the Seller Decides"
 permalink: /return-policies/amazon/
 description: "Amazon counts 30 days from delivery rather than from when you ordered. The real window depends on who sold the item, and Amazon shows the exact date on the order itself."
 verified: 2026-07-31

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "eBay Return Policy: The Seller Sets It, but You Are Covered Anyway"
+title: "eBay Return Policy: Set by the Seller, Backed by eBay"
 permalink: /return-policies/ebay/
 description: "eBay has no single return policy. Each seller picks their own, from no returns at all up to 60 days. Underneath that sits the Money Back Guarantee, which covers you even when the listing says no returns."
 verified: 2026-07-31

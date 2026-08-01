@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Farfetch Return Policy: 14 Days to Get It Back, Not to Send It"
+title: "Farfetch Return Policy: 14 Days, Measured on Arrival"
 permalink: /return-policies/farfetch/
 description: "Farfetch gives you 14 days, and the deadline is when the item arrives back at the boutique rather than when you post it. Returns are free, but the window is the tightest of any shop on this site."
 verified: 2026-07-31
