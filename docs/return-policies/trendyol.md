@@ -126,7 +126,7 @@ Two deadlines, one for requesting and one for sending, and a window that changes
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

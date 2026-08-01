@@ -124,7 +124,7 @@ Two overlapping windows, one set by the seller and one by the platform, and a di
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

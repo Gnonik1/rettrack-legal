@@ -126,7 +126,7 @@ With Amazon the useful habit is to record the real deadline rather than a rough 
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

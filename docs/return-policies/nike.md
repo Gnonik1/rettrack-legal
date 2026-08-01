@@ -124,7 +124,7 @@ Sixty days is long enough to feel like no deadline at all, which is exactly why 
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

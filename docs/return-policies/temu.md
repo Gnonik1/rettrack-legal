@@ -126,7 +126,7 @@ Ninety days is long enough that nobody remembers the date, and it starts earlier
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

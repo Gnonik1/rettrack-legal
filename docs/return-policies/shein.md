@@ -128,7 +128,7 @@ A Shein haul is exactly the situation this gets messy in: many items, one deadli
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

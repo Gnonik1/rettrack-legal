@@ -128,7 +128,7 @@ Thirty days from delivery sounds like plenty until the parcel sits unopened for 
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

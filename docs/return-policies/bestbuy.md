@@ -132,7 +132,7 @@ RetTrack saves the purchase and the return date together and reminds you before 
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

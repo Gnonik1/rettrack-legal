@@ -133,7 +133,7 @@ The reason this deadline gets missed is almost never carelessness. It is that th
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

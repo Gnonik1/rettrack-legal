@@ -123,7 +123,7 @@ Thirty days is short enough that a parcel left unopened for a week has already u
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 

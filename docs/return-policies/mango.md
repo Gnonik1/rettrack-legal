@@ -120,7 +120,7 @@ A dispatch-date clock is the easiest kind to misjudge, because the date that mat
   </a>
 </div>
 
-[Compare all thirteen return windows side by side]({{ '/return-policies/' | relative_url }})
+[Compare all return windows side by side]({{ '/return-policies/' | relative_url }})
 
 ---
 
