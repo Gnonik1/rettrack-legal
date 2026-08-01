@@ -158,6 +158,15 @@ Sixty days is long enough to feel like no deadline at all, which is exactly why 
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
+  <a class="store-row" href="{{ '/return-policies/ebay/' | relative_url }}">
+    <span class="store-copy">
+      <span class="store-name">eBay</span>
+      <span class="store-line">Set by the seller, with a 30 day guarantee underneath.</span>
+    </span>
+    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
+    </svg>
+  </a>
 </div>
 
 ---

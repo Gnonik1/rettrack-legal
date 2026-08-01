@@ -2,7 +2,7 @@
 layout: default
 title: "Return Policy Comparison: How Long You Have at Each Store"
 permalink: /return-policies/
-description: "A side by side comparison of return windows at Zara, H&M, Amazon, Zalando, Shein, Nike and Mango, including when the clock starts counting and what it costs to send something back."
+description: "A side by side comparison of return windows at Zara, H&M, Amazon, Zalando, Shein, Nike, Mango, Trendyol, Temu and eBay, including when the clock starts counting and what it costs to send something back."
 ---
 
 # Return windows compared, store by store
@@ -73,6 +73,12 @@ Almost every shop here says thirty days. That number turns out to be the least u
       <td data-label="Clock starts">Purchase date</td>
       <td data-label="Cost to return">First return free</td>
     </tr>
+    <tr>
+      <td data-label="Store"><a href="{{ '/return-policies/ebay/' | relative_url }}">eBay</a></td>
+      <td data-label="Window">Varies</td>
+      <td data-label="Clock starts">Delivery date</td>
+      <td data-label="Cost to return">Depends on the reason</td>
+    </tr>
   </tbody>
 </table>
 
@@ -80,7 +86,7 @@ Almost every shop here says thirty days. That number turns out to be the least u
 
 **Cost is where they really differ.** Zalando and Mango charge nothing either way. Zara and H&M take a fee out of your refund for anything posted back, though both are free if you walk into a shop. Shein gives you one free parcel per order and charges for every one after it.
 
-**The outliers run in both directions.** Temu gives you 90 days and Nike 60, while everyone else sits at a month. Trendyol has no single number at all, since its window is set per region rather than globally. And a long window is not automatically a generous one: Temu starts counting the day you order rather than the day the parcel lands.
+**The outliers run in both directions.** Temu gives you 90 days and Nike 60, while everyone else sits at a month. Trendyol has no single number at all, since its window is set per region rather than globally. And a long window is not automatically a generous one: Temu starts counting the day you order rather than the day the parcel lands. eBay is a category of its own, since the window is set by whoever is selling rather than by the platform.
 
 Each store page explains the exceptions, the things that get a return refused, and when the money actually turns up.
 
