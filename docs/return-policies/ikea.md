@@ -1,82 +1,89 @@
 ---
 layout: default
-title: "Zalando Return Policy: Is It Still 100 Days?"
-permalink: /return-policies/zalando/
-description: "Zalando's famous 100 day return window is gone. Most European markets moved to 30 days between late 2024 and early 2025, though returns are still free everywhere."
+title: "IKEA Return Policy: 365 Days, or 180 If You Opened It"
+permalink: /return-policies/ikea/
+description: "IKEA gives you a year to return an unopened product and six months if you have opened or assembled it. The deadline is decided by the box rather than by the calendar."
 verified: 2026-07-31
 ---
 
 <a class="crumb" href="{{ '/return-policies/' | relative_url }}"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14.25 5.5 7.75 12l6.5 6.5" /></svg>Return windows</a>
 
-# <span class="masthead-store">Zalando</span> Return Policy: Is It Still 100 Days?
+# <span class="masthead-store">IKEA</span> Return Policy: 365 Days, or 180 If You Opened It
 {: .masthead}
 
-No. The 100 day window that Zalando built its reputation on has been cut to 30 days across its main European markets. Returns are still free, which is the part that matters most, but the generous deadline is gone and plenty of guides have not caught up.
+Every other shop on this site has one deadline. IKEA has two, and which one applies to you is decided by a single question: did you open the box.
 {: .lede}
 
 <div class="glance">
   <div class="glance-item">
-    <span class="glance-label">Return window</span>
-    <span class="glance-value">30 days in most markets</span>
+    <span class="glance-label">Unopened</span>
+    <span class="glance-value">365 days</span>
+  </div>
+  <div class="glance-item">
+    <span class="glance-label">Opened or assembled</span>
+    <span class="glance-value">180 days</span>
   </div>
   <div class="glance-item">
     <span class="glance-label">Return cost</span>
-    <span class="glance-value">Free</span>
-  </div>
-  <div class="glance-item">
-    <span class="glance-label">Legal minimum</span>
-    <span class="glance-value">14 days</span>
+    <span class="glance-value">Free in store</span>
   </div>
 </div>
 
-## What changed, and when
+## Two windows, one question
 
-Zalando rolled the change out in waves rather than all at once, which is part of why the old number is still repeated so often.
+| Condition | How long you have |
+| --- | --- |
+| New and unopened | 365 days |
+| Opened or assembled | 180 days |
+| Mattresses | One exchange within 90 days |
 
-| Markets | Cut to 30 days | Notes |
-| --- | --- | --- |
-| France, Spain, Austria, Switzerland | October 2024 | First wave |
-| Germany, Netherlands, Italy | January 2025 | Including Zalando's home market |
-| Other markets | Rolled out progressively | Check your own country's site |
-| United Kingdom | Date not clearly published | Currently 30 days with free returns |
+Both windows need proof of purchase, and both need the item to come back clean, undamaged and unmodified. A year is genuinely a year, which makes this the longest window on this site by a wide margin.
 
-Zalando's stated reason was that more than nine in ten customers already returned within 30 days, so the longer window mostly held stock out of circulation rather than helping shoppers.
+## Assembled furniture still counts
 
-## Returns are still free, and that is the real difference
+This is the part that surprises people. Furniture you have already built goes back under the 180 day rule, not excluded from returns entirely. It has to be in resellable condition, so nothing glued, painted, cut or damaged during the build.
 
-Zalando kept free returns in every market it operates in, which sets it apart from [Zara]({{ '/return-policies/zara/' | relative_url }}) and [H&M]({{ '/return-policies/hm/' | relative_url }}), where posting an order back has a fee taken out of your refund.
+Keep the instruction booklet and the hardware bag. Taking the piece apart again without them is the thing that turns a valid return into an argument at the counter.
 
-A shorter window that costs nothing is often better value than a longer one that charges you, especially on a small order where the fee eats a real share of the refund.
+## Mattresses have their own rule
 
-## Your legal right is separate from Zalando's policy
+A mattress you have slept on is not a refund. IKEA's own policy is a one-time exchange for another mattress within 90 days. Choose the replacement carefully, because there is no second swap.
 
-If you are buying from within the European Union, the wider EEA, or the United Kingdom, consumer law gives you a right to cancel a distance purchase and send it back within at least 14 days of receiving it. That right exists regardless of what any shop's own policy says.
+An unopened mattress is a different case and falls under the ordinary unopened rule.
 
-Zalando's 30 days is therefore the more generous of the two, and it is the one you would normally use. The statutory right matters when a shop tries to refuse a return inside the legal period, or where its own rules are stricter.
+## What cannot go back at all
 
-This is a general summary rather than legal advice, and the details vary by country. Your national consumer authority is the reliable source.
+Plants, cut fabric, custom countertops and anything bought from the as-is section are outside the policy entirely. As-is is the discount corner holding ex-display pieces and returns, and it is sold final.
 
-## Condition still decides it
+Beyond that, anything modified, dirty, stained or damaged is refused regardless of which window it falls in. On furniture that is a higher bar than it sounds.
 
-Items need to be unworn and in their original condition with the tags still attached. Beauty products generally have to be unopened and sealed, for the same hygiene reasons that apply almost everywhere.
+## Where you can actually return it
 
-## Where to find your actual deadline
+Returns go to a full IKEA store. Planning Studios and Pick-Up Points do not accept them, which is worth checking before driving somewhere small.
 
-Rather than counting from memory, open the order in your Zalando account. The return option and the deadline attached to it are shown there, and that is the version that reflects your country and the date your order was placed. Terms also differ between countries, so use your own country's Zalando site rather than whichever one a search engine happens to show you.
+For an online order you can arrange a pickup instead, but the transport cost for large items comes out of your refund rather than being charged separately. Taking it in yourself is free, and on a wardrobe that difference is not small.
+
+## No receipt?
+
+Proof of purchase is the gate here. If you are in IKEA Family or paid by card, the store can usually look the purchase up in your account and that stands in for the receipt.
+
+With nothing traceable it becomes the store's discretion, and where a return is allowed it tends to come back as store credit at the item's lowest recent selling price rather than a refund of what you paid.
 
 ## When the money actually arrives
 
-Zalando refunds to the payment method you used, and because the return itself costs nothing there is no fee eating into the amount, which is not true of most of the other shops listed here.
+An in-store return is the fastest route on this site. The refund is processed at the desk and goes back to the payment method you used, so the only wait left is your bank.
 
-The wait is three stages rather than one: the parcel travelling back, Zalando receiving and checking it, and your bank posting the credit. The tracking on your return covers the first stage and your account covers the second. Only the third is invisible, and it is usually the one people are actually waiting on.
+An online return has to travel and be checked first, and where you arranged a pickup the transport cost is deducted before anything is issued.
 
-If you paid by something other than a straightforward card payment, the refund follows that same method, so check where the money actually came from before assuming it has gone missing.
+Where the return was accepted without proof of purchase, the outcome is store credit rather than money, which is a different result rather than a slower one.
 
 <div class="track-cta" markdown="1">
 
 ## Keep track of it instead of counting
 
-Thirty days is short enough that a parcel left unopened for a week has already used a quarter of it. RetTrack saves the purchase and the return date together and reminds you before the window closes.
+A year is long enough that nobody remembers the date, which is the same failure mode as [Temu]({{ '/return-policies/temu/' | relative_url }}) at 90 days rather than the opposite one at [Farfetch]({{ '/return-policies/farfetch/' | relative_url }}), where the window is too short to relax.
+
+RetTrack saves the purchase and the return date together and reminds you before the window closes.
 
 <a class="cta-button" href="https://apps.apple.com/app/rettrack-returns-purchases/id6775811683" target="_blank" rel="noopener">Get RetTrack for iPhone</a>
 
@@ -107,6 +114,15 @@ Thirty days is short enough that a parcel left unopened for a week has already u
     <span class="store-copy">
       <span class="store-name">Amazon</span>
       <span class="store-line">30 days from delivery, but the seller can change it.</span>
+    </span>
+    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
+    </svg>
+  </a>
+  <a class="store-row" href="{{ '/return-policies/zalando/' | relative_url }}">
+    <span class="store-copy">
+      <span class="store-name">Zalando</span>
+      <span class="store-line">30 days and free, since the 100 day window ended.</span>
     </span>
     <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
@@ -175,20 +191,11 @@ Thirty days is short enough that a parcel left unopened for a week has already u
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
-  <a class="store-row" href="{{ '/return-policies/ikea/' | relative_url }}">
-    <span class="store-copy">
-      <span class="store-name">IKEA</span>
-      <span class="store-line">365 days unopened, 180 once you have opened the box.</span>
-    </span>
-    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
-    </svg>
-  </a>
 </div>
 
 ---
 
-This page is a plain-English summary of publicly available information and is not the official policy. Return rules change, so check the current terms on Zalando's own help pages before relying on them. <a href="https://www.zalando.co.uk/faq/Returns-and-Refunds/How-do-I-return-my-order.html" target="_blank" rel="noopener">Zalando's returns and refunds help pages</a>. Last checked {{ page.verified | date: "%-d %B %Y" }}.
+This page is a plain-English summary of publicly available information and is not the official policy. Return rules change, so check the current terms on IKEA's own help pages before relying on them. <a href="https://www.ikea.com/us/en/customer-service/returns-claims/" target="_blank" rel="noopener">IKEA's returns and claims page</a>. Last checked {{ page.verified | date: "%-d %B %Y" }}.
 {: .small-print}
 
 <script type="application/ld+json">
@@ -211,8 +218,8 @@ This page is a plain-English summary of publicly available information and is no
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Zalando Return Policy",
-      "item": "{{ '/return-policies/zalando/' | absolute_url }}"
+      "name": "IKEA Return Policy",
+      "item": "{{ '/return-policies/ikea/' | absolute_url }}"
     }
   ]
 }
