@@ -67,6 +67,12 @@ Almost every shop here says thirty days. That number turns out to be the least u
       <td data-label="Clock starts">Delivery date</td>
       <td data-label="Cost to return">Free</td>
     </tr>
+    <tr>
+      <td data-label="Store"><a href="{{ '/return-policies/temu/' | relative_url }}">Temu</a></td>
+      <td data-label="Window">90 days</td>
+      <td data-label="Clock starts">Purchase date</td>
+      <td data-label="Cost to return">First return free</td>
+    </tr>
   </tbody>
 </table>
 
@@ -74,7 +80,7 @@ Almost every shop here says thirty days. That number turns out to be the least u
 
 **Cost is where they really differ.** Zalando and Mango charge nothing either way. Zara and H&M take a fee out of your refund for anything posted back, though both are free if you walk into a shop. Shein gives you one free parcel per order and charges for every one after it.
 
-**Nike is the outlier.** Twice the window, and the only shop here that expects you to have worn the thing before deciding. Trendyol is the other outlier, in the opposite direction: its window is set per region rather than globally, so the same shop gives you 30 days in Europe and 15 in the Gulf.
+**The outliers run in both directions.** Temu gives you 90 days and Nike 60, while everyone else sits at a month. Trendyol has no single number at all, since its window is set per region rather than globally. And a long window is not automatically a generous one: Temu starts counting the day you order rather than the day the parcel lands.
 
 Each store page explains the exceptions, the things that get a return refused, and when the money actually turns up.
 

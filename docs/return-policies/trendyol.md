@@ -151,6 +151,15 @@ Two deadlines, one for requesting and one for sending, and a window that changes
       <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
     </svg>
   </a>
+  <a class="store-row" href="{{ '/return-policies/temu/' | relative_url }}">
+    <span class="store-copy">
+      <span class="store-name">Temu</span>
+      <span class="store-line">90 days, but counted from the day you ordered.</span>
+    </span>
+    <svg class="store-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M9.75 5.5 16.25 12l-6.5 6.5" />
+    </svg>
+  </a>
 </div>
 
 ---
